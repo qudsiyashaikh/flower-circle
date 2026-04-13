@@ -20,10 +20,6 @@ This project generates a beautiful **flower circle pattern** using Python. It de
 ---
 
 ## 📸 Output
-(Add your output image he
-
----
-
 <img width="1154" height="864" alt="Screenshot 2026-04-13 111325" src="https://github.com/user-attachments/assets/8495f639-e75b-40f7-a5d7-fb9cabb34643" />
 
 
