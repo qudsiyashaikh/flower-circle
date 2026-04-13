@@ -1,4 +1,4 @@
-﻿# flower-circle
+<img width="1154" height="864" alt="Screenshot 2026-04-13 111325" src="https://github.com/user-attachments/assets/c364cfa5-e352-4ec5-875e-07cace61d59b" />﻿# flower-circle
 # 🌸 Flower Circle Pattern using Python
 
 This project generates a beautiful **flower circle pattern** using Python. It demonstrates the use of loops, mathematical logic, and graphics (like Turtle / Matplotlib depending on your code).
@@ -24,8 +24,8 @@ This project generates a beautiful **flower circle pattern** using Python. It de
 
 ---
 
-## ▶️ Demo Video
-Uploading Screen Recording 2026-04-13 105722.mp4…
+<img width="1154" height="864" alt="Screenshot 2026-04-13 111325" src="https://github.com/user-attachments/assets/8495f639-e75b-40f7-a5d7-fb9cabb34643" />
+
 
 
 
